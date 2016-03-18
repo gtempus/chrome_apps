@@ -1,0 +1,10 @@
+body {
+    font-size: 50px;
+    background: black;
+    color: white;
+}
+
+#distance-display,
+#temperature-display {
+    text-align: center;
+}
